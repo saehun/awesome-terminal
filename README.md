@@ -5,3 +5,4 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep) ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [fd](https://github.com/sharkdp/fd) A simple, fast and user-friendly alternative to 'find'
 - [hyperfine](https://github.com/sharkdp/hyperfine) A command-line benchmarking tool
+- [delta](https://github.com/dandavison/delta)A viewer for git and diff output
