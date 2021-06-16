@@ -1,5 +1,16 @@
 # Awesome Terminal
 
+## Related
+- [awesome-cli](https://github.com/Kikobeats/awesome-cli) A curated list of awesome resources for building immersive CLI experiences.
+- [awesome-terminal](https://github.com/cdleon/awesome-terminals Terminal Emulators)
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) 🖥 📊 🕹 🛠 A curated list of command line apps
+- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) 🐚 Use your terminal shell to do awesome things.
+- [awesome-shell](https://github.com/alebcay/awesome-shell) A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [command-line-tools](https://github.com/learn-anything/command-line-tools) Awesome Command Line Utilities
+
+
+
 ### Find and replace
 - [sd](https://github.com/chmln/sd) Intuitive find & replace CLI (sed alternative)
 - [fd](https://github.com/sharkdp/fd) A simple, fast and user-friendly alternative to 'find'
