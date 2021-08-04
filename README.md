@@ -15,6 +15,7 @@
 - [sd](https://github.com/chmln/sd) Intuitive find & replace CLI (sed alternative)
 - [fd](https://github.com/sharkdp/fd) A simple, fast and user-friendly alternative to 'find'
 - [ripgrep](https://github.com/BurntSushi/ripgrep) ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [sk](https://github.com/lotabout/skim) Fuzzy Finder in rust!
 
 ### Git
 - [gitui](https://github.com/extrawurst/gitui) Blazing 💥 fast terminal-ui for git written in rust 🦀
