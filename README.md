@@ -17,6 +17,9 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep) ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [sk](https://github.com/lotabout/skim) Fuzzy Finder in rust!
 
+### Data Processing
+- [htmlq](https://github.com/mgdm/htmlq) Like jq, but for HTML.
+
 ### Git
 - [gitui](https://github.com/extrawurst/gitui) Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [delta](https://github.com/dandavison/delta) A viewer for git and diff output
