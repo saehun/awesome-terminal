@@ -27,3 +27,4 @@
 
 ### Etc
 - [hyperfine](https://github.com/sharkdp/hyperfine) A command-line benchmarking tool
+- [ddosify](https://github.com/ddosify/ddosify) High-performance load testing tool, written in Golang.
