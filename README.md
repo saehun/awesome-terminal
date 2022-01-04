@@ -19,6 +19,7 @@
 
 ### Data Processing
 - [htmlq](https://github.com/mgdm/htmlq) Like jq, but for HTML.
+- [fp](https://github.com/wader/fq) Link jq, but for binary
 
 ### Git
 - [gitui](https://github.com/extrawurst/gitui) Blazing 💥 fast terminal-ui for git written in rust 🦀
