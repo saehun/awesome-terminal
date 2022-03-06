@@ -29,3 +29,8 @@
 ### Etc
 - [hyperfine](https://github.com/sharkdp/hyperfine) A command-line benchmarking tool
 - [ddosify](https://github.com/ddosify/ddosify) High-performance load testing tool, written in Golang.
+
+### Disk usage
+- [dust](https://github.com/bootandy/dust) A more intuitive version of du in rust
+- [dua-cli](https://github.com/Byron/dua-cli) View disk space usage and delete unwanted data, fast.
+
