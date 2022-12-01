@@ -25,6 +25,7 @@
 - [gitui](https://github.com/extrawurst/gitui) Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [delta](https://github.com/dandavison/delta) A viewer for git and diff output
 - [tig](https://github.com/jonas/tig) Text-mode interface for git
+- [git-delete-merged-branches](https://github.com/hartwork/git-delete-merged-branches) 🔥 Command-line tool to delete merged Git branches
 
 ### Etc
 - [hyperfine](https://github.com/sharkdp/hyperfine) A command-line benchmarking tool
